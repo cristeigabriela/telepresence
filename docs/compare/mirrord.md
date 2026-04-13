@@ -57,7 +57,7 @@ This comparison chart applies to the Open Source editions of both products.
 | Can replace a container                                                      | ✅            | ❌       |
 | Can act as a cluster VPN only                                                | ✅            | ❌       |
 | Will work with statically linked binaries                                    | ✅            | ❌       |
-| Runs natively on windows                                                     | ✅            | ❌       |
+| Runs natively on windows                                                     | ✅            | ✅       |
 | Can intercept traffic to and from pod's localhost                            | ✅            | ❌       |
 | Remotely mounted file system available from all applications                 | ✅            | ❌       |
 | Cluster network available to all applications (including browser)            | ✅            | ❌       |
